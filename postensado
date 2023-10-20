@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Diseño de Estructuras de Hormigón Armado Postensado</title>
+</head>
+<body>
+    <header>
+        <h1>Consideraciones Básicas y Disposiciones Reglamentarias</h1>
+        <nav>
+            <ul>
+                <li><a href="#introduccion">Introducción</a></li>
+                <li><a href="#normativas">Normativas Relevantes</a></li>
+                <li><a href="#diseno">Diseño de Estructuras</a></li>
+                <li><a href="#ventajas">Ventajas del Hormigón Postensado</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="introduccion">
+        <h2>Introducción</h2>
+        <p>Esta página web se enfoca en las consideraciones básicas y disposiciones reglamentarias para el diseño de estructuras de hormigón armado postensado.</p>
+    </section>
+
+    <section id="normativas">
+        <h2>Normativas Relevantes</h2>
+        <p>En el diseño de estructuras de hormigón postensado, es fundamental cumplir con las normativas y códigos de construcción vigentes. Aquí exploraremos las normativas más importantes a tener en cuenta.</p>
+    </section>
+
+    <section id="diseno">
+        <h2>Diseño de Estructuras</h2>
+        <p>El diseño de estructuras de hormigón postensado implica considerar varios factores, como la resistencia de los materiales, las cargas, la ubicación de los tendones, etc. Exploraremos estos aspectos en esta sección.</p>
+    </section>
+
+    <section id="ventajas">
+        <h2>Ventajas del Hormigón Postensado</h2>
+        <p>El hormigón postensado ofrece numerosas ventajas, como una mayor capacidad de carga, una mayor durabilidad y una mejor resistencia a la flexión. Aquí detallaremos estas ventajas.</p>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Si tienes alguna pregunta o necesitas más información sobre el diseño de estructuras de hormigón postensado, no dudes en contactarnos. Estamos disponibles para ayudarte.</p>
+    </section>
+
+    <footer>
+        <p>Diseño de Estructuras de Hormigón Armado Postensado - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
